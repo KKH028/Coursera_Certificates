@@ -1,5 +1,3 @@
-# Coursera_Certificates
-
 # 학습 과정
 
 1. **Convolutional Neural Networks**
@@ -21,6 +19,7 @@
 9. **Sequence Models**
 취득일 : 2023년 6월 12일
 내용: 순차 데이터를 처리하는데 사용되는 모델인 순환 신경망(RNN)과 장단기 메모리(LSTM) 등의 시퀀스 모델에 대해 학습합니다.
+<br>
 
 ![image](https://github.com/KKH028/Coursera_Certificates/assets/166976971/2539cb42-0c19-414e-a7cb-36fd5f748634)
 
