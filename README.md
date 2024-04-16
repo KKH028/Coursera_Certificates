@@ -36,6 +36,11 @@
 내용: 순차 데이터를 처리하는데 사용되는 모델인 순환 신경망(RNN)과 장단기 메모리(LSTM) 등의 시퀀스 모델에 대해 학습합니다.<br><br>
 <br>
 
+![sequence](https://github.com/KKH028/Coursera_Certificates/assets/166976971/e32d53a1-3798-497a-9dbd-4f32ebe0c9bb)
+
+
+<br><br>
+
 ![image](https://github.com/KKH028/Coursera_Certificates/assets/166976971/2539cb42-0c19-414e-a7cb-36fd5f748634)
 
 ![스크린샷 2024-04-13 203227](https://github.com/KKH028/Coursera_Certificates/assets/166976971/b53d1b79-cf54-430f-9912-bddc0e911f3f)
