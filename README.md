@@ -1,5 +1,8 @@
 # 학습 과정
 
+![스크린샷 2024-04-13 203227](https://github.com/KKH028/Coursera_Certificates/assets/166976971/b53d1b79-cf54-430f-9912-bddc0e911f3f)
+
+
 ![캡처](https://github.com/KKH028/Coursera_Certificates/assets/166976971/e4f581bf-6c89-49dd-833f-1c983ad1b56d)
 
 
@@ -39,7 +42,5 @@
 ![sequence](https://github.com/KKH028/Coursera_Certificates/assets/166976971/e32d53a1-3798-497a-9dbd-4f32ebe0c9bb)
 
 
-<br><br>
 
-![스크린샷 2024-04-13 203227](https://github.com/KKH028/Coursera_Certificates/assets/166976971/b53d1b79-cf54-430f-9912-bddc0e911f3f)
 
